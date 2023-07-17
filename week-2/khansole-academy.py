@@ -13,7 +13,7 @@ BASE = 0
 
 def main():
     """
-    Calculates and returns the weight of a human on the moon.
+    Khansole academy
     """
     print("Khansole Academy")
     counter = 0
